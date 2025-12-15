@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-        "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
@@ -27,5 +27,4 @@
     "globals": "^16.5.0",
     "vite": "^7.2.4"
  },
-  "homepage": "http://joedoe.github.io/your-app"
-}
+  "homepage": "http://site-21.github.io/organ-painter/"
